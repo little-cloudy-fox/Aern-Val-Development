@@ -1,0 +1,10 @@
+Copyright (c) 2026 Littlecloudyfox
+
+All rights reserved.
+
+The contents of this repository, including but not limited to source code,
+documentation, development logs, roadmaps, artwork, designs, concepts,
+and lore, are protected by copyright.
+
+No part of this repository may be copied, modified, distributed,
+or used without explicit permission from the copyright holder.
