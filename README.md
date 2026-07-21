@@ -1,4 +1,4 @@
-# Aern-Val-Development
+# Aern'Val Development
 Devlogs and progress updates from the development of Aern'Val.
 
 ## Latest Devlogs
@@ -16,7 +16,7 @@ Devlogs and progress updates from the development of Aern'Val.
 
 ## Archive
 
-- [2026 Devlogs](devlogs2026/)
+- [2026 Devlogs](Devlogs/2026/)
 
 ## License
 
