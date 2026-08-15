@@ -2,6 +2,9 @@
 
 ### Added
 * Added HBAO+ checkbox to the additional settings of `SettingsRoot`.
+* Fixed anti aliasing bug (It was not applying from `UserSettings` slot on init).
+* Fixed lobby logo that was not animating properly.
+* Recorded sounds for the completed quests (success & failure), maybe will use them in future.
 
 ### Improved
 * Improved overall occlusion quality.
